@@ -8,6 +8,7 @@ This is combination of the ["redis_server"](https://github.com/Scorpiion/redis_s
     git clone git@github.com:Scorpiion/redis_client.git
     cd redis_client
     ./zip.bash
+    cd -
     
 ## Deploy env
 
