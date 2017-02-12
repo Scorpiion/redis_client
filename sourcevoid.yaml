@@ -1,0 +1,9 @@
+runtime: nodejs
+version: latest
+
+build:
+  - ./install_redis.bash
+  - npm install
+
+start: node server.js
+
