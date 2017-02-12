@@ -2,7 +2,7 @@
 
 ## Note
 
-This is combination of the "redis_server" and "app_terminal" repos to make it easier to debug and test redis. This app will install redis so that the redis-cli command exists, and then it will run a copy of the app_terminal so you can access from the browser. 
+This is combination of the ["redis_server"](https://github.com/Scorpiion/redis_server) and ["app_terminal"](https://github.com/Scorpiion/app_terminal) repos to make it easier to debug and test redis. This app will install redis so that the redis-cli command exists, and then it will run a copy of the app_terminal so you can access from the browser. 
 
 ## Download and build zip (or clone/fork the repo to your Github)
     git clone git@github.com:Scorpiion/redis_client.git
